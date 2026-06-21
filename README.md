@@ -1,3 +1,11 @@
+> # ⚠️ Moved & renamed
+> This was the original **fork**-based engine repo. Development moved to a fresh,
+> non-fork **monorepo**: **https://github.com/brendanwelsh/obs-telestrator**
+> (engine + in-OBS dock + Stream Deck plugin). This repo is **archived**; the
+> mwelsh/Tari/katarai lineage is preserved there via attribution. Get the latest there.
+
+---
+
 # Whiteboard Source for OBS Studio (Windows only)
 This script adds a new whiteboard source to OBS Studio that allows users to display live drawings on top of their sources.
 
